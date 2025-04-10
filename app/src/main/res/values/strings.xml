@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crud_prueba</string>
+    <string name="login">Login</string>
+    <string name="entrar">Entrar</string>
+    <string name="password">Password</string>
+    <string name="cedula">Cedula</string>
+</resources>
